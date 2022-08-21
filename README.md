@@ -1,10 +1,10 @@
 # 💫About Me :
 Hi 👋 
 ✔️I’m a mobile Developer (IOS-Android)👨🏻‍💻.
-✔️I would love to develop any custom Android App. 
+✔️I would love to develop any custom Android App or Ios App. 
 ✔️I provide an attractive UI design with bug-free code.
-✔️I will provide exactly the same Android App the concept of the Android App has in your mind.
-🦦I’m currently learning SwiftUi
+✔️I will provide exactly the same App  has in your mind.
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100056234059985) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismailhamad2) 
