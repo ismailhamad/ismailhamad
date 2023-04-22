@@ -1,9 +1,5 @@
 # 💫About Me :
-Hi 👋 
-✔️I’m a mobile Developer (IOS-Android)👨🏻‍💻.
-✔️I would love to develop any custom Android App or Ios App. 
-✔️I provide an attractive UI design with bug-free code.
-✔️I will provide exactly the same App  has in your mind.
+Hello, my name is  ismail. As an experienced mobile developer with over five years of experience in iOS and Android app development, I'm confident that I can help bring your ideas to life. I'm dedicated to delivering bug-free code and an attractive UI design that meets your exact specifications. I take pride in my ability to provide custom solutions for each client's unique needs, and I have a proven track record of success. If you'd like to see some examples of my work or hear feedback from satisfied clients, please don't hesitate to ask!
 
 
 ## 🌐Socials
